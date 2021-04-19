@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1587461889 source:c:\users\fajar arasy isman\downloads\tubes ai\tugasai\fuzzy1\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<iomanip>
+
+1587736900 source:c:\users\fajar arasy isman\downloads\tubes ai\tugasai\tugasai\fuzzy1\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<iomanip>
+
+1587801208 source:c:\users\fajar arasy isman\downloads\tubes ai\tubes\tugasai\fuzzy1\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	<iomanip>
+
